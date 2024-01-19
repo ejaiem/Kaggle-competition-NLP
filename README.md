@@ -1,4 +1,4 @@
-# NaturalLanguageProcessing-NLP-Projects
+# NaturalLanguageProcessing-NLP- Kaggle competition
 I intend in this repository to present different methods to solve NLP problems. 
 
 
